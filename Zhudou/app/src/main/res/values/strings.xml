@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zhudou</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_about">关于</string>
+    <string name="title_post">回答</string>
+    <string name="title_ask">提问</string>
+    <string name="content_about">煮豆问答，是万物语联旗下的一款健康问答社区。</string>
+</resources>
